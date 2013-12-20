@@ -1,0 +1,3 @@
+Para executar este serviço, precisa da versão do Java 6 da Oracle, não foi testado usando OpenJDK...
+
+java -jar mpos_service.jar&

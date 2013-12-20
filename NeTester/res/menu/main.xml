@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+     
+    <item
+        android:id="@+id/menu_act_princ_huntersignal"
+        android:icon="@drawable/hunter_signal"
+        android:showAsAction="always"
+        android:title="@string/menu_act_history"/>
+    
+    <item
+        android:id="@+id/menu_act_princ_history"
+        android:icon="@drawable/performance"
+        android:showAsAction="always"
+        android:title="@string/menu_act_history"/>
+    
+</menu>

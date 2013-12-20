@@ -1,0 +1,3 @@
+para executar este mar, precisa per no mínimo java se 6 da oracle…
+
+java -jar picfilter_service.jar&

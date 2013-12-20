@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_action_frequency"
+        android:icon="@drawable/settings"
+        android:showAsAction="always"
+        android:title="@string/action_frequency"/>
+
+    <item
+        android:id="@+id/menu_action_export"
+        android:icon="@drawable/export"
+        android:showAsAction="always"
+        android:title="@string/action_export"/>
+
+</menu>
