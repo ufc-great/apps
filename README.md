@@ -1,4 +1,4 @@
 apps
 ====
 
-<Descrever o aplicativo>
+Descrever o aplicativo...
