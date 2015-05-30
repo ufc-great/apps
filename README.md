@@ -52,9 +52,5 @@ java -jar benchimage_service.jar&
 
 ====
 
-Os recursos descritos anteriormente estão disponiveis no diretorio "Release" desse repositório e os aplicativos também estão publicados no Google Play Store nestes links.
-
-NETester: https://play.google.com/store/apps/details?id=br.ufc.mdcc.netester&hl=pt-br
-
-BenchImage: https://play.google.com/store/apps/details?id=br.ufc.mdcc.benchimage&hl=pt-br
+Os recursos descritos anteriormente estão disponiveis no diretorio "Release" desse repositório.
 
